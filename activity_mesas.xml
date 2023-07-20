@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:background="#000000" />
+
+    <Button
+        android:id="@+id/buttonMesa1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 1" />
+
+    <Button
+        android:id="@+id/buttonMesa2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 2" />
+
+    <Button
+        android:id="@+id/buttonMesa3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 3" />
+
+    <Button
+        android:id="@+id/buttonMesa4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 4" />
+
+    <Button
+        android:id="@+id/buttonMesa5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 5" />
+
+    <Button
+        android:id="@+id/buttonMesa6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 6" />
+
+    <Button
+        android:id="@+id/buttonMesa7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 7" />
+
+    <Button
+        android:id="@+id/buttonMesa8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mesa 8" />
+
+</LinearLayout>
